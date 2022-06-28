@@ -5,8 +5,7 @@
 
 <div>
             <a href="https://github.com/camilabraghin">
-                <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=camilabraghin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-                <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilabraghin&theme=tokyonight"/>
+                <img src="https://github-readme-stats.vercel.app/api?username=camilabraghin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
             </a>
 </div> 
 
