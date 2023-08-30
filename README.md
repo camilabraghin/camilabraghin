@@ -4,8 +4,8 @@
 - 🌱 Estudando Java, Spring e Angular ...
 
 <div>
-            <a href="https://github.com/camilabraghin">
-                <img src="https://github-readme-stats.vercel.app/api?username=camilabraghin&show_icons=true&theme=tokyonight&count_private=true"/>
+          <a href="https://github.com/camilabraghin">
+                <img src="https://github-readme-stats.vercel.app/api?username=camilabraghin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
             </a>
 </div> 
 
