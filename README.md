@@ -4,19 +4,10 @@
 - 🌱 Estudando Java, Spring e Angular ...
 
 <div>       <a href="https://github.com/camilabraghin">
-                <img src="https://github-readme-stats.vercel.app/api?username=camilabraghin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+                <img src="https://github-readme-stats.vercel.app/api?username=camilabraghin&show_icons=true&theme=tokyonight"/>
             </a>
 </div> 
 
-<div>       <a href="https://github.com/camilabraghin">
-                <img src="https://github-readme-stats.vercel.app/api?username=camilabraghin&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight"/>
-            </a>
-</div> 
-
-<div>       <a href="https://github.com/camilabraghin">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=camilabraghin&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight"/>
-            </a>
-</div> 
 
 ##
   
