@@ -5,8 +5,8 @@
 
 <div>
           <a href="https://github.com/camilabraghin">
-                ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilabraghin&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
-            </a>
+ <img src="github-readme-stats.vercel.app/api?username=camilabraghin&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
+          </a>
 </div> 
 
 ##
